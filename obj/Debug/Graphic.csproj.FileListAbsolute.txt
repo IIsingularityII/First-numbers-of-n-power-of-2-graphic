@@ -1,0 +1,10 @@
+D:\Bandicam\solutions\Graphic\bin\Debug\Graphic.exe.config
+D:\Bandicam\solutions\Graphic\bin\Debug\Graphic.exe
+D:\Bandicam\solutions\Graphic\bin\Debug\Graphic.pdb
+D:\Bandicam\solutions\Graphic\obj\Debug\Graphic.csproj.AssemblyReference.cache
+D:\Bandicam\solutions\Graphic\obj\Debug\Graphic.Form1.resources
+D:\Bandicam\solutions\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+D:\Bandicam\solutions\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+D:\Bandicam\solutions\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+D:\Bandicam\solutions\Graphic\obj\Debug\Graphic.exe
+D:\Bandicam\solutions\Graphic\obj\Debug\Graphic.pdb
