@@ -1,6 +1,6 @@
 ﻿namespace Graphic
 {
-    partial class Form1
+    partial class Menu
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -188,7 +188,7 @@
             this.label1.TabIndex = 3;
             this.label1.Text = "СТЕПЕНЬ ДВОЙКИ";
             // 
-            // Form1
+            // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -198,7 +198,7 @@
             this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.chart);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
+            this.Name = "Menu";
             this.Text = "График";
             ((System.ComponentModel.ISupportInitialize)(this.chart)).EndInit();
             this.menuStrip1.ResumeLayout(false);

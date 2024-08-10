@@ -11,9 +11,9 @@ using System.Windows.Forms.DataVisualization.Charting;
 
 namespace Graphic
 {
-    public partial class Form1 : Form
+    public partial class Menu : Form
     {
-        public Form1()
+        public Menu()
         {
             InitializeComponent();
         }
@@ -23,15 +23,15 @@ namespace Graphic
            Clear();
            int numberOfPower;
            if(textBox.Text == "")
-            {
+           {
                 SetDefaultParametres();
                 PrintParametres();
-            }
+           }
            else if(int.TryParse(textBox.Text, out numberOfPower))
-            {
+           {
                 CountNumbers.FillCounters(numberOfPower);
                 PrintParametres();
-            }
+           }
         }
         
 
